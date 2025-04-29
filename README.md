@@ -22,7 +22,7 @@ The application leverages Streamlit for an interactive UI, Scikit-learn for mach
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Tanmay-hue/Streamlit_ml_app.git
+git clone https://github.com/sachine7474/Streamlit-ML-App.git
 cd Streamlit_ml_app
 ```
 
@@ -84,13 +84,13 @@ pip install streamlit pandas matplotlib seaborn scikit-learn shap
 ## Screenshots
 
 ### Data Exploration
-![Data Exploration Screenshot](https://github.com/Tanmay-hue/Streamlit_ml_app/blob/main/image/1.png)
+![Data Exploration Screenshot](https://github.com/sachine7474/Streamlit-ML-App/blob/main/image/1.png)
 
 ### Model Training
-![Model Training Screenshot](https://github.com/Tanmay-hue/Streamlit_ml_app/blob/main/image/3.png)
+![Model Training Screenshot](https://github.com/sachine7474/Streamlit-ML-App/blob/main/image/3.png)
 
 ### Shapley Value Visualizations
-![Shapley Value Screenshot](https://github.com/Tanmay-hue/Streamlit_ml_app/blob/main/image/4.png)
+![Shapley Value Screenshot](https://github.com/sachine7474/Streamlit-ML-App/blob/main/image/4.png)
 
 ## Troubleshooting
 - Ensure you have the correct Python version (>= 3.7).
@@ -105,5 +105,5 @@ If you want to contribute to this project, feel free to open an issue or submit 
 4. Commit and push your changes.
 5. Create a pull request.
 ---
-Author: Tanmay Singh
+Author: Sachin Kumar
 
